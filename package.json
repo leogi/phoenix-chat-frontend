@@ -2,6 +2,7 @@
   "name": "phoenix-chat-frontend",
   "version": "1.0.0",
   "description": "phoenix chat frontend",
+   "readme": "README.md",
   "main": "index.js",
   "dependencies": {
     "history": "^3.2.0",
